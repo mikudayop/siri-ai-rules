@@ -1,1 +1,23 @@
 # siri-ai-rules
+DOMAIN-SUFFIX, api-siri-prod.apple.com, PROXY 
+DOMAIN-SUFFIX, mask-api.icloud.com, PROXY 
+DOMAIN-SUFFIX, cp4.cloudflare.com, PROXY 
+DOMAIN-SUFFIX, apple-relay.fastly-edge.com, PROXY 
+DOMAIN-SUFFIX, apple-relay.cloudflare.com, PROXY 
+DOMAIN-SUFFIX, apple-relay.apple.com, PROXY 
+DOMAIN-SUFFIX, smoot.apple.com, PROXY 
+DOMAIN-SUFFIX, seed.siri.apple.com, PROXY 
+DOMAIN-KEYWORD, siri, PROXY 
+DOMAIN-SUFFIX, apps.mzstatic.com, PROXY 
+DOMAIN-SUFFIX, mask.icloud.com, PROXY 
+DOMAIN-SUFFIX, mask-h2.icloud.com, PROXY 
+DOMAIN-SUFFIX, ls.apple.com, PROXY 
+DOMAIN-SUFFIX, gateway.icloud.com, PROXY 
+DOMAIN-SUFFIX, gsp1-ssl.ls.apple.com, PROXY 
+DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net, PROXY 
+DOMAIN, mask.apple-dns.net, PROXY 
+DOMAIN, mask-t.apple-dns.net, PROXY 
+DOMAIN, mask-api.fe.apple-dns.net, PROXY 
+DOMAIN, guzzoni.apple.com, PROXY 
+DOMAIN-SUFFIX, apple-relay.akamaized.net, PROXY 
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com, PROXY
